@@ -1,0 +1,62 @@
+.header
+{
+    height:55px;
+    background-color: red;
+
+}
+.login-user
+{
+   float: right;
+   color:white;
+   margin-right:20px;
+   margin-top:8px;
+
+
+}
+.header-logo
+
+{
+    display: inline-block;
+    text-align: center;
+    font-size: 36px;
+    color: red;
+    background: white;
+    width: 57px;
+    height: 55px;
+    border-radius: 50%;
+    top: -1%;
+    margin-left: 1%;
+    font-family: poppins;
+    font-weight: bold;
+}
+
+
+.login
+{
+display: inline-block;
+
+}
+.signup
+{
+display: inline-block;
+border:2px solid white;
+padding:5px;
+margin-left:5px;
+}
+
+
+.logfont
+{
+
+    font-size:24px;
+    padding:4px;
+    font-weight: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+span
+{
+  font-size: 22px;
+  padding: 18px 25px 10px 0px;
+  font-weight: 500;
+}
+

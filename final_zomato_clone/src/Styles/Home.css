@@ -1,0 +1,459 @@
+li
+{
+    list-style: none;
+    background-color: lightgray;
+    background-image: linear-gradient(90deg, red 20px, lightgray 10px);
+    padding: 4px 18px 9px 33px;
+    border: 1px solid #CCC;
+    box-shadow: inset 1px 1px 0 rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: -142px;
+    width: 280px;
+    margin-left: 187px;
+}
+
+
+.logo {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    background: white;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    position: absolute;
+    top: 20%;
+    margin-left: 630px;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+
+
+#query{
+    display: inline-block;
+    width: 80%;
+    box-sizing: border-box;
+    font-size: 16px;
+    padding: -38px;
+    font-family: calibri light;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: -5px;
+    background-color: lightgray;
+    color: gray;
+    padding-left: 25px;
+    position: absolute;
+    margin: -181px 41px 45px 188px;
+}
+
+#notebooks {
+    position: absolute;
+    left: 38%;
+    width: 350px;
+    border-radius: 5px;
+    max-height: 450px;
+}
+
+ ul{
+    margin: 0 auto;
+    padding: 0;
+    max-height: 390px;
+    overflow-y: auto;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 5px 5px 0 5px;
+    border-left: none;
+    border-right: none;
+}
+
+#notebooks span {
+    display: block;
+    position: absolute;
+    background: #FFD32E;
+    bottom: -35px;
+    left: -1px;
+    width: 360px;
+    border-radius: 0 0 5px 5px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: inset 1px 1px rgba(255, 255, 255, 0.5);
+}
+.restaurantsinput {
+    height: 35px;
+    width: 350px;
+    color: gray;
+    border: none;
+    border-radius: 0px;
+    font-size: 15px;
+    opacity: 0.7;
+    float: left;
+    padding-left: 30px;
+}
+.heading
+{  
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  margin-top: -58px;
+}
+
+ .subheading
+ {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+  
+
+ }
+
+ *
+ {
+
+     font-family:poppins;
+ }
+
+
+   
+      .breakfast
+   {
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.5;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #192f60;
+    margin:-130px 8px 8px 229px;
+}
+  
+.sub-break
+{
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 230px;
+}
+   .logo
+   {
+
+    margin-top: -25px;
+    margin-left: 41%;
+    color: red;
+    height: 66px;
+    width: 68px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 34px;
+    text-align: center;
+    font-size: 35px;
+
+   }    
+   .sublogo
+   {
+    margin-top: -214px;
+    color: white;
+    font-size: 40px;
+   }
+
+   .location
+   { 
+    display:inline-block;
+    width:200px;
+    height:200px;
+    padding:2px;
+    margin: -170px 450px;
+
+   }
+
+.search-bar
+{
+    width:0px;
+    height: 40px;
+    background-color: #ffffff;
+    margin: -160px 5px 11px 746px;
+    display: inline-block;
+    vertical-align: top;
+    padding:0px;
+    opacity:0.6;
+
+}
+
+
+.locationDropdown
+{
+    margin: -155px -162px 29px -5px;
+    height: 37px;
+    width: 257px;
+    vertical-align: top;
+    display: inline-block;
+    opacity:0.6;
+
+}
+
+.item
+{
+    display:inline-block;
+    width: 420px;
+    height: 150px;
+    box-shadow: 30px 20px 20px 20px rgb(189, 209, 189);
+    background-color: #ffffff;
+    margin: 20px -20px;
+    padding:4px;
+    align-items:center;
+    position:relative;
+}
+
+.item-left
+{
+    display:inline-block;
+    width:53%;
+    margin-left:20px;
+
+}
+.item-right
+{
+    display:inline-block;
+    width:45%;
+    vertical-align: top;
+    text-align:justify;
+
+}
+
+.quick
+{
+
+    margin-top:0px;
+}
+.search
+{
+
+    margin-top:-20px;
+    padding:0px;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .restaurantsinput {
+        height: 35px;
+        width: 200px;
+        color: gray;
+        font-size: 15px;
+        margin-top:60px;
+        margin-left: -102px;
+    }
+    .logo {
+        text-align: center;
+        font-size: 34px;
+        color: red;
+        background: white;
+        width: 58px;
+        height: 55px;
+        border-radius: 50%;
+        position: absolute;
+        top:20%;
+        margin-left: 40%;
+        font-family: Poppins;
+        font-weight: bold;
+    }
+
+    .sublogo
+    {
+     margin-top: -235px;
+     color: white;
+     font-size: 38px;
+    }
+
+    .locationSelector
+     {
+        position: relative;
+        top: -230px;
+        margin-left: 20px;
+        margin-right: 14%;
+        text-align: center;
+    }
+ .locationDropdown
+ {
+    height: 38px;
+    width: 239px;
+    vertical-align: top;
+    display: inline-block;
+    opacity: 0.6;
+    margin: 80px 0px 0px -630px;
+}
+.search 
+   {
+        position: absolute !important;
+        left: 14px;
+        margin: 14% -1px;
+        top: 72px !important;
+    } 
+
+    .heading 
+    {
+        position: absolute;
+        margin-left: -3px;
+        margin-top: -60px;
+    }
+    .subheading
+ {
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin: 295px 0px 0px 0px;
+  
+
+ }
+ 
+ #query {
+    display: inline-block;
+    width: 69%;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: calibri light;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    background-color: lightgray;
+    color: gray;
+    padding-left: 10px;
+    position: absolute;
+    margin: 106px 0px 0px -203px;
+}
+
+li
+{
+    margin-top: 145px;
+    width: 247px;
+    margin-left: -30px;
+}
+
+
+}
+
+
+
+@media only screen and (min-width: 600px) and (max-width: 1150px) {
+    .logo {
+        text-align: center;
+        font-size: 34px;
+        color: red;
+        background: white;
+        width: 66px;
+        height: 60px;
+        border-radius: 50%;
+        position: absolute;
+        top: 25%;
+        margin-left: 46%;
+        font-family: Poppins;
+        font-weight: bold;
+    }
+ 
+    .locationDropdown {
+        height: 33px;
+        width: 240px;
+        color: gray;
+        border: none;
+        border-radius: 0px;
+        font-size: 15px;
+        opacity: 0.7;
+        margin-right: 21px;
+        margin-bottom: 25px;
+        float: left;
+        margin: 66px 0px 0px -544px;
+    }
+    .locationSelector {
+        position: relative;
+        top: -220px;
+        margin-left: 32.5%;
+        margin-right: 20%;
+        text-align: center;
+    }
+    .search {
+        position: absolute !important;
+        left: 5px;
+        margin: 1% 0px;
+        top: 73px !important;
+    }
+
+    .heading {
+        position: absolute;
+        margin-left: -3px;
+        margin-top: -58px;
+    }
+    .subheading
+    {
+       font-family: Poppins;
+       font-size: 19px;
+       font-weight: normal;
+       font-stretch: normal;
+       font-style: normal;
+       line-height: 1.5;
+       letter-spacing: normal;
+       text-align: left;
+       color: #8c96ab;
+       margin: 349px 15px;
+    }
+
+    #query {
+        display: inline-block;
+        width: 70%;
+        box-sizing: border-box;
+        font-size: 16px;
+        font-family: calibri light;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        background-color: lightgray;
+        color: gray;
+        padding-left: 10px;
+        position: absolute;
+        margin: 30px 0px 0px -158px;
+}
+
+li
+{
+    list-style: none;
+    background-color: lightgray;
+    background-image: linear-gradient(90deg, red 20px, lightgray 10px);
+    padding: 4px 18px 9px 33px;
+    border: 1px solid #CCC;
+    box-shadow: inset 1px 1px 0 rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 75px;
+    width: 247px;
+    margin-left: 16px;
+
+}
+
+
+
+}
+
+
